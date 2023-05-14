@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurWiliams
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Vue.
-- 💞️ I’m looking to collaborate on nothing yet.
+- 🌱 I’m currently learning php.
+- 💞️ I’m looking to collaborate on Frontend projects.
 - 📫 You can reach me at arthurwiliams86@gmail.com.
 
 <!---
